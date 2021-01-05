@@ -1,0 +1,32 @@
+#componentExplanation{
+    float:left;
+    color:white;
+    width:500px;
+    font-size:20px;
+    background: #15182f;
+    border-radius: 15px 50px 30px 5px; /*TL TR BR BL*/
+    border-radius: 15px 50px 30px; /*TL TRBL BR*/
+    border-radius: 15px 50px; /*TLBR TRBL*/
+    border-radius: 15px; /*All corners*/
+    padding:10px;
+}
+
+#button1 {
+    color : white;
+    padding:5px;
+
+}
+#button1:hover {
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid #FFFFFF;
+    background: rgba(238, 116, 7, 0.58);
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    text-align: center;
+}
