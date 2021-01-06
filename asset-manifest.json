@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/VisX-Sandbox/static/js/main.a69d1c99.chunk.js",
-    "main.js.map": "/VisX-Sandbox/static/js/main.a69d1c99.chunk.js.map",
+    "main.js": "/VisX-Sandbox/static/js/main.4a4819bc.chunk.js",
+    "main.js.map": "/VisX-Sandbox/static/js/main.4a4819bc.chunk.js.map",
     "runtime-main.js": "/VisX-Sandbox/static/js/runtime-main.283015c0.js",
     "runtime-main.js.map": "/VisX-Sandbox/static/js/runtime-main.283015c0.js.map",
     "static/css/2.ffc66db5.chunk.css": "/VisX-Sandbox/static/css/2.ffc66db5.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.283015c0.js",
     "static/css/2.ffc66db5.chunk.css",
     "static/js/2.4698f02c.chunk.js",
-    "static/js/main.a69d1c99.chunk.js"
+    "static/js/main.4a4819bc.chunk.js"
   ]
 }
